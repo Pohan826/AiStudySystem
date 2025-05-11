@@ -2,7 +2,7 @@
 
 this is the prototype of Ai study system
 
-study_monitor/
+study_monitor
 ├── main.py                   
 ├── attention_detector.py     
 ├── cloud_storage.py          
